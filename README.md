@@ -1,6 +1,6 @@
 # 🧠 Jogo da Memória
 
-Projeto de Jogo da Memória desenvolvido com **HTML**, **CSS** e **JavaScript** puro.
+Projeto simples de Jogo da Memória desenvolvido com **HTML**, **CSS** e **JavaScript** puro.
 
 ## 🚀 Funcionalidades
 - Combine pares de cartas iguais
@@ -15,4 +15,4 @@ Projeto de Jogo da Memória desenvolvido com **HTML**, **CSS** e **JavaScript** 
 ## 📦 Como usar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/jogo-da-memoria
+   git clone https://github.com/aparecidapnuness/Jogo-da-memoria.git
